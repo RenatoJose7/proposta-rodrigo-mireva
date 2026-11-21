@@ -1,0 +1,21 @@
+PROPOSTA MIREVA × RODRIGO — Versão 2
+
+Identidade visual baseada no código-fonte do site mirevadesign.com.br:
+Branco #FFFFFF | Azul-marinho #1C1445 | Azul-claro #83B9DD | Fundo #EEF1F4
+Tipografia Poppins (Google Fonts).
+
+Abra index.html no navegador. Não precisa instalar nada.
+Para publicar: envie index.html para um projeto estático no Netlify ou Vercel.
+
+Interações:
+- Menu responsivo e navegação com âncoras
+- Efeitos de entrada, parallax, marquee e progresso de leitura
+- Botões demonstrativos de catálogo e de agenda (não registram compras/reservas)
+- Seletor de dois projetos com total e desconto calculados
+- Link de WhatsApp com mensagem e preço montados dinamicamente
+- FAQ expansível
+
+A página não usa backend, banco de dados nem captura dados de visitantes.
+Os serviços terceiros que serão integrados aos sites reais podem usar sua própria infraestrutura e bancos.
+
+Atenção: confirme com o cliente o escopo e os valores antes de enviar.
